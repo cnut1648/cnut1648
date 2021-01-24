@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Jiashu Xu 徐家澍 and I am currently 3rd year USC student double-majoring in Applied Math and Computer Science. [This](https://cnut1648.github.io) is my personal website.
+
+- Feel free to reach me at jiashuxu@usc.edu
+
+[![cnut1648's github stats](https://github-readme-stats.vercel.app/api?username=cnut1648)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=cnut1648)
