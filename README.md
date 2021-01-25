@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=cnut1648&color=green&style=flat)
+
 <!--
 **cnut1648/cnut1648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +19,5 @@ Here are some ideas to get you started:
 My name is Jiashu Xu 徐家澍 and I am currently 3rd year USC student double-majoring in Applied Math and Computer Science. [This](https://cnut1648.github.io) is my personal website.
 
 - Feel free to reach me at jiashuxu@usc.edu
+[![cnut1648's github stats](https://github-readme-stats.vercel.app/api?username=cnut1648&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![cnut1648's github stats](https://github-readme-stats.vercel.app/api?username=cnut1648)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=cnut1648)
