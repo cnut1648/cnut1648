@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jiashu Xu 徐家澍 and I am currently 3rd year USC student double-majoring in Applied Math and Computer Science. [This](https://cnut1648.github.io) is my personal website.
+My name is Jiashu Xu 徐家澍 and I am currently 4th year USC student double-majoring in Applied Math and Computer Science. [This](https://cnut1648.github.io) is my personal website.
 
 - Feel free to reach me at jiashuxu@usc.edu
 
