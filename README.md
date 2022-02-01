@@ -4,7 +4,6 @@
 
 <!--
 **cnut1648/cnut1648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=Hi!+I%E2%80%98m+Jiashu+Xu!)](https://git.io/typing-svg)
+
 My name is Jiashu Xu 徐家澍 and I am currently 4th year USC student double-majoring in Applied Math and Computer Science. [This](https://cnut1648.github.io) is my personal website.
 
 - Feel free to reach me at jiashuxu@usc.edu
