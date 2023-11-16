@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align='center'>
-  <a href='https://cnut1648.github.io/'>My Website </a> - <a href='https://cnut1648.github.io/files/jiashuxu_CV_current.pdf'> My Resumé </a>
+  <a href='https://cnut1648.github.io/'>My Website </a> - <a href='https://cnut1648.github.io/files/Jiashu_Xu_CV.pdf'> My Resumé </a>
 </h2>
 <p align='center'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&width=435&lines=Welcome+to+my+site!!!" alt="Typing SVG" /></a>
