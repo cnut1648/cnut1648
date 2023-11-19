@@ -18,9 +18,9 @@
 
 
 
-My name is Jiashu Xu 徐家澍 and I am currently 4th year USC student double-majoring in Applied Math and Computer Science.
+My name is Jiashu Xu 徐家澍 and I am currently a master student at Harvard.
 
-- Feel free to reach me at jiashuxu@usc.edu
+- Feel free to reach me at [`jxu1@g.harvard.edu`](mailto:jxu1@g.harvard.edu)
 
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=cnut1648&theme=gotham'/>
