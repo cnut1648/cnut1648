@@ -5,7 +5,7 @@
         width='30px' />
   Hi There, I'm Jiashu
   <br />
-  <img src='https://komarev.com/ghpvc/?username=SingularisArt&color=green&style=for-the-badge'
+  <img src='https://komarev.com/ghpvc/?username=cnut1648&color=green&style=for-the-badge'
     alt='Profile Views' />
 </h1>
 
@@ -18,12 +18,12 @@
 
 
 
-My name is Jiashu Xu 徐家澍 and I am currently a master student at Harvard.
+My name is Jiashu Xu 徐家澍 and I am currently a Member of Technical Staff at [xAI](https://x.ai/). Previously, I was a Research Scientist at [NVIDIA](https://www.nvidia.com/), earned my master's degree at Harvard University, and completed my undergraduate studies at the University of Southern California (USC).
 
-- Feel free to reach me at [`jxu1@g.harvard.edu`](mailto:jxu1@g.harvard.edu)
+- Feel free to reach me at [`1999j0615une@gmail.com`](mailto:1999j0615une@gmail.com)
 
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=cnut1648&theme=gotham'/>
+  <img src='https://github-readme-stats.vercel.app/api?username=cnut1648&theme=gotham&include_all_commits=true&count_private=true'/>
 </p>
 
 
